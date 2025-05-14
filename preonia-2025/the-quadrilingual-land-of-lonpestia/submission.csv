@@ -1,0 +1,1588 @@
+subtaskID,datapointID,answer
+1,1553,False
+1,1537,False
+1,1439,False
+1,1322,False
+1,1348,False
+1,1578,True
+1,1320,False
+1,1438,False
+1,1269,False
+1,1536,False
+1,1523,False
+1,1265,False
+1,1584,False
+1,1447,False
+1,1251,False
+1,1388,False
+1,1530,True
+1,1366,False
+1,1356,False
+1,1490,False
+1,1255,False
+1,1337,False
+1,1357,False
+1,1491,False
+1,1350,True
+1,1473,False
+1,1386,False
+1,1332,True
+1,1531,False
+1,1498,False
+1,1260,False
+1,1273,False
+1,1504,False
+1,1302,False
+1,1449,False
+1,1380,False
+1,1430,False
+1,1377,True
+1,1261,False
+1,1243,True
+1,1425,False
+1,1567,False
+1,1254,False
+1,1582,True
+1,1442,True
+1,1407,False
+1,1457,False
+1,1493,False
+1,1565,False
+1,1393,False
+1,1465,True
+1,1259,True
+1,1494,True
+1,1352,False
+1,1450,False
+1,1318,True
+1,1275,False
+1,1283,False
+1,1496,False
+1,1373,False
+1,1252,False
+1,1542,False
+1,1330,False
+1,1246,False
+1,1257,False
+1,1489,False
+1,1248,False
+1,1293,False
+1,1524,True
+1,1517,False
+1,1378,False
+1,1258,False
+1,1299,False
+1,1400,True
+1,1485,False
+1,1306,False
+1,1480,False
+1,1440,False
+1,1483,False
+1,1434,False
+1,1470,False
+1,1471,False
+1,1571,False
+1,1554,False
+1,1475,False
+1,1420,False
+1,1482,False
+1,1281,False
+1,1474,False
+1,1519,True
+1,1279,False
+1,1432,True
+1,1240,True
+1,1529,False
+1,1466,False
+1,1300,False
+1,1313,False
+1,1433,False
+1,1534,True
+1,1540,False
+1,1399,False
+1,1418,False
+1,1387,False
+1,1344,True
+1,1370,False
+1,1522,True
+1,1448,False
+1,1362,False
+1,1511,False
+1,1271,False
+1,1476,False
+1,1267,False
+1,1343,False
+1,1304,False
+1,1292,False
+1,1574,False
+1,1311,False
+1,1427,True
+1,1441,False
+1,1526,False
+1,1451,False
+1,1535,False
+1,1268,False
+1,1263,False
+1,1358,False
+1,1245,False
+1,1238,False
+1,1549,False
+1,1401,False
+1,1426,False
+1,1277,False
+1,1376,False
+1,1478,False
+1,1403,False
+1,1558,False
+1,1572,False
+1,1417,True
+1,1396,False
+1,1431,False
+1,1408,True
+1,1371,False
+1,1381,True
+1,1361,False
+1,1340,True
+1,1266,False
+1,1397,False
+1,1303,False
+1,1547,False
+1,1501,False
+1,1250,False
+1,1363,True
+1,1319,False
+1,1472,False
+1,1455,False
+1,1546,False
+1,1375,False
+1,1561,False
+1,1461,False
+1,1520,False
+1,1445,False
+1,1282,False
+1,1367,False
+1,1316,False
+1,1484,True
+1,1309,True
+1,1538,False
+1,1239,False
+1,1276,True
+1,1327,False
+1,1391,False
+1,1587,False
+1,1443,True
+1,1374,False
+1,1503,False
+1,1527,False
+1,1413,False
+1,1528,False
+1,1416,False
+1,1500,False
+1,1379,False
+1,1512,False
+1,1339,False
+1,1487,False
+1,1406,False
+1,1550,False
+1,1424,False
+1,1579,False
+1,1559,True
+1,1555,False
+1,1298,True
+1,1510,False
+1,1533,True
+1,1562,False
+1,1577,False
+1,1312,False
+1,1353,False
+1,1518,True
+1,1583,False
+1,1272,False
+1,1404,False
+1,1289,False
+1,1464,False
+1,1507,False
+1,1317,True
+1,1333,False
+1,1284,True
+1,1545,False
+1,1422,False
+1,1506,False
+1,1428,False
+1,1368,False
+1,1481,True
+1,1354,False
+1,1398,False
+1,1346,False
+1,1585,True
+1,1411,False
+1,1359,False
+1,1335,True
+1,1369,False
+1,1463,False
+1,1516,False
+1,1405,False
+1,1326,False
+1,1446,False
+1,1402,False
+1,1288,False
+1,1564,False
+1,1412,False
+1,1453,False
+1,1576,False
+1,1505,False
+1,1301,True
+1,1468,False
+1,1566,False
+1,1543,False
+1,1295,False
+1,1290,False
+1,1328,False
+1,1521,False
+1,1429,False
+1,1557,False
+1,1415,False
+1,1392,False
+1,1419,False
+1,1365,False
+1,1342,False
+1,1394,False
+1,1544,False
+1,1297,False
+1,1256,False
+1,1569,False
+1,1305,False
+1,1323,False
+1,1467,False
+1,1336,False
+1,1310,False
+1,1509,True
+1,1452,True
+1,1360,False
+1,1372,False
+1,1286,False
+1,1560,False
+1,1241,False
+1,1563,True
+1,1385,False
+1,1580,False
+1,1459,True
+1,1278,False
+1,1321,False
+1,1568,False
+1,1437,False
+1,1382,False
+1,1541,False
+1,1460,False
+1,1390,False
+1,1264,True
+1,1280,False
+1,1291,False
+1,1581,True
+1,1575,False
+1,1486,False
+1,1444,False
+1,1539,False
+1,1454,True
+1,1315,False
+1,1469,False
+1,1338,False
+1,1551,False
+1,1552,False
+1,1351,False
+1,1262,False
+1,1573,False
+1,1341,False
+1,1586,False
+1,1488,False
+1,1477,False
+1,1331,False
+1,1247,False
+1,1514,False
+1,1287,False
+1,1436,False
+1,1384,False
+1,1244,False
+1,1395,False
+1,1479,True
+1,1389,False
+1,1532,False
+1,1307,False
+1,1556,False
+1,1423,True
+1,1325,True
+1,1364,True
+1,1294,False
+1,1324,True
+1,1296,False
+1,1456,False
+1,1242,False
+1,1499,False
+1,1345,False
+1,1421,False
+1,1497,False
+1,1308,False
+1,1492,False
+1,1515,False
+1,1349,False
+1,1329,False
+1,1409,False
+1,1334,False
+1,1508,False
+1,1570,False
+1,1347,False
+1,1410,False
+1,1502,False
+1,1270,False
+1,1383,True
+1,1548,False
+1,1355,False
+1,1274,False
+1,1462,False
+1,1414,True
+1,1495,False
+1,1435,False
+1,1525,False
+1,1249,False
+1,1253,False
+1,1285,False
+1,1513,False
+1,1314,False
+1,1458,True
+2,120,Hure
+2,1168,En Gli
+2,796,En Gli
+2,114,Hungeleabeen
+2,989,Englcrevbeh
+2,614,Hungeleabeen
+2,1057,Englcrevbeh
+2,577,Englcrevbeh
+2,362,Englcrevbeh
+2,599,Englcrevbeh
+2,697,Hure
+2,78,Hure
+2,408,Englcrevbeh
+2,911,Englcrevbeh
+2,21,Englcrevbeh
+2,440,Englcrevbeh
+2,998,Hungeleabeen
+2,352,En Gli
+2,1008,Englcrevbeh
+2,591,Hungeleabeen
+2,508,Hungeleabeen
+2,881,En Gli
+2,293,Englcrevbeh
+2,545,Englcrevbeh
+2,681,Englcrevbeh
+2,347,Hungeleabeen
+2,1039,En Gli
+2,359,En Gli
+2,1139,Englcrevbeh
+2,492,Englcrevbeh
+2,589,En Gli
+2,476,Hungeleabeen
+2,1106,Englcrevbeh
+2,317,Englcrevbeh
+2,186,Englcrevbeh
+2,139,En Gli
+2,154,Englcrevbeh
+2,977,Hure
+2,489,Hure
+2,1032,Hure
+2,1173,Hure
+2,970,Englcrevbeh
+2,59,En Gli
+2,801,Hungeleabeen
+2,1026,En Gli
+2,1090,En Gli
+2,1169,En Gli
+2,602,Hungeleabeen
+2,748,Englcrevbeh
+2,151,Hungeleabeen
+2,635,Englcrevbeh
+2,473,Hungeleabeen
+2,611,Hungeleabeen
+2,430,Hungeleabeen
+2,684,Englcrevbeh
+2,1058,Englcrevbeh
+2,1129,Hungeleabeen
+2,44,En Gli
+2,566,Englcrevbeh
+2,110,Englcrevbeh
+2,113,En Gli
+2,521,En Gli
+2,703,Englcrevbeh
+2,385,Hungeleabeen
+2,104,Hure
+2,880,En Gli
+2,824,Englcrevbeh
+2,32,Hungeleabeen
+2,716,Englcrevbeh
+2,140,Englcrevbeh
+2,612,Hungeleabeen
+2,1154,Englcrevbeh
+2,529,Englcrevbeh
+2,217,En Gli
+2,171,Englcrevbeh
+2,254,Englcrevbeh
+2,1046,En Gli
+2,395,Hungeleabeen
+2,842,Hungeleabeen
+2,979,Englcrevbeh
+2,617,Hungeleabeen
+2,376,En Gli
+2,719,En Gli
+2,437,Hure
+2,333,Englcrevbeh
+2,1100,Hungeleabeen
+2,41,Hungeleabeen
+2,519,Hure
+2,1155,Englcrevbeh
+2,590,Englcrevbeh
+2,20,Hungeleabeen
+2,355,Englcrevbeh
+2,121,Englcrevbeh
+2,683,Hungeleabeen
+2,853,Englcrevbeh
+2,789,Hungeleabeen
+2,1045,Englcrevbeh
+2,475,En Gli
+2,959,Hure
+2,1108,Hure
+2,406,Englcrevbeh
+2,164,Hungeleabeen
+2,222,Hure
+2,537,Hungeleabeen
+2,737,Hungeleabeen
+2,235,Englcrevbeh
+2,840,Englcrevbeh
+2,373,Hungeleabeen
+2,247,Englcrevbeh
+2,644,Hungeleabeen
+2,409,En Gli
+2,381,Hungeleabeen
+2,901,Hungeleabeen
+2,555,Englcrevbeh
+2,647,En Gli
+2,996,Englcrevbeh
+2,608,En Gli
+2,1144,Englcrevbeh
+2,238,Hungeleabeen
+2,1085,Englcrevbeh
+2,463,Englcrevbeh
+2,563,Englcrevbeh
+2,444,Hungeleabeen
+2,402,En Gli
+2,57,En Gli
+2,1147,En Gli
+2,639,Hungeleabeen
+2,58,Hungeleabeen
+2,315,Englcrevbeh
+2,144,Hungeleabeen
+2,714,En Gli
+2,228,Englcrevbeh
+2,1079,Englcrevbeh
+2,908,Englcrevbeh
+2,63,Englcrevbeh
+2,706,En Gli
+2,386,Hungeleabeen
+2,40,Englcrevbeh
+2,314,En Gli
+2,515,Hungeleabeen
+2,662,Hungeleabeen
+2,595,Englcrevbeh
+2,567,Hungeleabeen
+2,442,En Gli
+2,136,Hungeleabeen
+2,731,Englcrevbeh
+2,864,Hungeleabeen
+2,240,Hungeleabeen
+2,65,En Gli
+2,477,Hure
+2,366,Englcrevbeh
+2,288,En Gli
+2,857,Hungeleabeen
+2,439,Hungeleabeen
+2,18,Hungeleabeen
+2,48,Englcrevbeh
+2,1195,En Gli
+2,356,Hure
+2,623,En Gli
+2,1125,En Gli
+2,189,En Gli
+2,42,Hungeleabeen
+2,594,Englcrevbeh
+2,1067,Hungeleabeen
+2,116,Hure
+2,23,Englcrevbeh
+2,1193,Hungeleabeen
+2,185,Hungeleabeen
+2,290,En Gli
+2,1031,Englcrevbeh
+2,722,Englcrevbeh
+2,778,Englcrevbeh
+2,1124,Hungeleabeen
+2,938,Hungeleabeen
+2,889,En Gli
+2,917,Englcrevbeh
+2,175,Englcrevbeh
+2,167,Englcrevbeh
+2,946,En Gli
+2,125,Englcrevbeh
+2,91,En Gli
+2,780,En Gli
+2,1186,Englcrevbeh
+2,53,Hungeleabeen
+2,38,En Gli
+2,1005,Hure
+2,920,Englcrevbeh
+2,1053,En Gli
+2,862,Hungeleabeen
+2,70,Hungeleabeen
+2,205,Hungeleabeen
+2,974,Englcrevbeh
+2,134,En Gli
+2,335,Englcrevbeh
+2,206,Englcrevbeh
+2,245,En Gli
+2,895,Englcrevbeh
+2,316,Hungeleabeen
+2,488,Englcrevbeh
+2,806,Hungeleabeen
+2,882,En Gli
+2,479,Englcrevbeh
+2,844,Englcrevbeh
+2,1098,En Gli
+2,810,En Gli
+2,13,En Gli
+2,118,En Gli
+2,1228,Englcrevbeh
+2,384,Englcrevbeh
+2,1128,Englcrevbeh
+2,927,En Gli
+2,146,En Gli
+2,142,En Gli
+2,1127,Englcrevbeh
+2,875,En Gli
+2,158,Englcrevbeh
+2,87,Englcrevbeh
+2,1006,En Gli
+2,575,En Gli
+2,1113,Englcrevbeh
+2,369,Hungeleabeen
+2,978,Englcrevbeh
+2,1164,Englcrevbeh
+2,239,Englcrevbeh
+2,651,Hungeleabeen
+2,1122,En Gli
+2,1219,Hungeleabeen
+2,1178,Hungeleabeen
+2,1203,Englcrevbeh
+2,443,Hure
+2,804,Englcrevbeh
+2,564,Hungeleabeen
+2,334,Hungeleabeen
+2,841,Englcrevbeh
+2,619,En Gli
+2,307,Englcrevbeh
+2,816,En Gli
+2,231,Hungeleabeen
+2,1176,Englcrevbeh
+2,149,Englcrevbeh
+2,128,Englcrevbeh
+2,597,Englcrevbeh
+2,1060,Hungeleabeen
+2,224,En Gli
+2,138,Englcrevbeh
+2,616,En Gli
+2,1055,Hungeleabeen
+2,942,Hungeleabeen
+2,542,Englcrevbeh
+2,322,Englcrevbeh
+2,777,En Gli
+2,839,Englcrevbeh
+2,725,En Gli
+2,1159,Englcrevbeh
+2,1103,Hungeleabeen
+2,1075,Hungeleabeen
+2,971,Englcrevbeh
+2,423,Hungeleabeen
+2,107,Hungeleabeen
+2,1236,En Gli
+2,19,Hungeleabeen
+2,919,Hungeleabeen
+2,1082,Englcrevbeh
+2,1229,Hungeleabeen
+2,525,Englcrevbeh
+2,606,Hungeleabeen
+2,162,Hungeleabeen
+2,179,Englcrevbeh
+2,847,Hure
+2,435,En Gli
+2,493,Englcrevbeh
+2,739,Englcrevbeh
+2,95,Englcrevbeh
+2,708,En Gli
+2,350,Hungeleabeen
+2,985,En Gli
+2,1112,Hungeleabeen
+2,1004,Hure
+2,419,En Gli
+2,682,Hure
+2,25,Hungeleabeen
+2,531,Englcrevbeh
+2,518,En Gli
+2,399,Hungeleabeen
+2,883,Englcrevbeh
+2,323,Englcrevbeh
+2,1070,En Gli
+2,779,Hungeleabeen
+2,800,Englcrevbeh
+2,227,Englcrevbeh
+2,494,Englcrevbeh
+2,686,Hungeleabeen
+2,988,Hungeleabeen
+2,802,En Gli
+2,1225,Englcrevbeh
+2,695,En Gli
+2,266,En Gli
+2,215,Englcrevbeh
+2,246,Hure
+2,320,Englcrevbeh
+2,766,Hungeleabeen
+2,587,Hungeleabeen
+2,1099,Hure
+2,1014,Englcrevbeh
+2,961,Hungeleabeen
+2,649,Englcrevbeh
+2,560,Hungeleabeen
+2,811,En Gli
+2,868,Hungeleabeen
+2,81,Hure
+2,1182,Hungeleabeen
+2,425,Englcrevbeh
+2,650,Englcrevbeh
+2,878,Hure
+2,1095,Englcrevbeh
+2,544,En Gli
+2,964,En Gli
+2,232,Hure
+2,638,Englcrevbeh
+2,85,Hungeleabeen
+2,935,Hungeleabeen
+2,746,En Gli
+2,1051,Hungeleabeen
+2,905,En Gli
+2,781,Englcrevbeh
+2,910,En Gli
+2,287,Englcrevbeh
+2,454,Hungeleabeen
+2,534,Hungeleabeen
+2,629,Englcrevbeh
+2,1208,Hungeleabeen
+2,35,Englcrevbeh
+2,1049,En Gli
+2,727,Hungeleabeen
+2,449,Englcrevbeh
+2,12,Hungeleabeen
+2,188,Englcrevbeh
+2,670,Englcrevbeh
+2,3,En Gli
+2,1056,Hure
+2,756,Hungeleabeen
+2,583,Englcrevbeh
+2,828,Englcrevbeh
+2,258,Hungeleabeen
+2,720,Hungeleabeen
+2,909,En Gli
+2,625,Englcrevbeh
+2,1137,Hungeleabeen
+2,271,Hungeleabeen
+2,729,En Gli
+2,813,Englcrevbeh
+2,306,Hungeleabeen
+2,788,Englcrevbeh
+2,319,Hungeleabeen
+2,924,Englcrevbeh
+2,210,Englcrevbeh
+2,579,Hungeleabeen
+2,715,Englcrevbeh
+2,80,Hungeleabeen
+2,291,Hungeleabeen
+2,610,Englcrevbeh
+2,1001,Englcrevbeh
+2,502,Hungeleabeen
+2,173,Englcrevbeh
+2,903,Hungeleabeen
+2,1215,Englcrevbeh
+2,253,Englcrevbeh
+2,1028,En Gli
+2,289,Englcrevbeh
+2,262,Englcrevbeh
+2,1171,Englcrevbeh
+2,1211,Hure
+2,404,Hure
+2,721,Hungeleabeen
+2,54,Hungeleabeen
+2,1054,Englcrevbeh
+2,220,Hungeleabeen
+2,361,Hure
+2,1237,En Gli
+2,141,Hungeleabeen
+2,562,Englcrevbeh
+2,102,Hungeleabeen
+2,74,Englcrevbeh
+2,126,Englcrevbeh
+2,92,En Gli
+2,860,En Gli
+2,1233,Englcrevbeh
+2,874,Englcrevbeh
+2,833,Englcrevbeh
+2,992,Hure
+2,250,Englcrevbeh
+2,97,En Gli
+2,332,Englcrevbeh
+2,797,En Gli
+2,581,En Gli
+2,734,Englcrevbeh
+2,535,Hungeleabeen
+2,304,Hungeleabeen
+2,180,Hure
+2,109,Englcrevbeh
+2,704,Hungeleabeen
+2,471,Hungeleabeen
+2,916,Hungeleabeen
+2,866,Hungeleabeen
+2,723,En Gli
+2,1212,Englcrevbeh
+2,601,Englcrevbeh
+2,643,En Gli
+2,484,Hure
+2,1157,Hungeleabeen
+2,1068,En Gli
+2,143,En Gli
+2,76,Hungeleabeen
+2,1109,Hungeleabeen
+2,859,En Gli
+2,932,En Gli
+2,421,Englcrevbeh
+2,749,Englcrevbeh
+2,375,Hungeleabeen
+2,1205,En Gli
+2,743,En Gli
+2,1110,Hungeleabeen
+2,546,En Gli
+2,22,Hungeleabeen
+2,292,Englcrevbeh
+2,1119,Hungeleabeen
+2,269,Hungeleabeen
+2,741,Hungeleabeen
+2,202,Hungeleabeen
+2,921,En Gli
+2,609,Hure
+2,1052,En Gli
+2,342,En Gli
+2,852,Hungeleabeen
+2,798,Hungeleabeen
+2,893,Englcrevbeh
+2,679,Hure
+2,236,Hungeleabeen
+2,1071,En Gli
+2,1201,En Gli
+2,1043,Hungeleabeen
+2,951,Hungeleabeen
+2,694,Englcrevbeh
+2,846,Hungeleabeen
+2,37,Hungeleabeen
+2,198,En Gli
+2,160,En Gli
+2,230,En Gli
+2,111,Englcrevbeh
+2,627,Hungeleabeen
+2,785,Hungeleabeen
+2,973,Hure
+2,1003,Englcrevbeh
+2,345,Englcrevbeh
+2,190,Englcrevbeh
+2,1167,Hure
+2,574,En Gli
+2,691,Hungeleabeen
+2,759,En Gli
+2,5,Englcrevbeh
+2,153,Hungeleabeen
+2,1150,Hungeleabeen
+2,14,Hungeleabeen
+2,213,Hungeleabeen
+2,203,Englcrevbeh
+2,904,Englcrevbeh
+2,47,Hungeleabeen
+2,548,Englcrevbeh
+2,794,En Gli
+2,226,Hungeleabeen
+2,295,Hungeleabeen
+2,161,Englcrevbeh
+2,856,Englcrevbeh
+2,34,En Gli
+2,148,Hungeleabeen
+2,26,Hungeleabeen
+2,1221,Hure
+2,1214,Englcrevbeh
+2,72,Hure
+2,890,Englcrevbeh
+2,233,Englcrevbeh
+2,837,En Gli
+2,379,Hure
+2,300,En Gli
+2,1199,Englcrevbeh
+2,351,En Gli
+2,465,Englcrevbeh
+2,931,Englcrevbeh
+2,937,Englcrevbeh
+2,1078,Hungeleabeen
+2,204,Hungeleabeen
+2,52,Hure
+2,299,Englcrevbeh
+2,1206,Hure
+2,1149,Hungeleabeen
+2,1121,Hungeleabeen
+2,688,Hungeleabeen
+2,428,Hure
+2,572,Hungeleabeen
+2,809,Hungeleabeen
+2,745,Hure
+2,1038,Hungeleabeen
+2,834,Hungeleabeen
+2,666,Hungeleabeen
+2,710,Englcrevbeh
+2,877,Englcrevbeh
+2,960,En Gli
+2,1132,Englcrevbeh
+2,528,En Gli
+2,424,Englcrevbeh
+2,584,En Gli
+2,327,En Gli
+2,718,Englcrevbeh
+2,887,En Gli
+2,187,Hungeleabeen
+2,511,Hungeleabeen
+2,928,En Gli
+2,1118,Englcrevbeh
+2,1138,Englcrevbeh
+2,405,Englcrevbeh
+2,1047,En Gli
+2,31,Hungeleabeen
+2,1217,Englcrevbeh
+2,558,En Gli
+2,836,Hungeleabeen
+2,1207,Englcrevbeh
+2,500,Hungeleabeen
+2,593,Hure
+2,1196,Hungeleabeen
+2,183,Hure
+2,532,Hungeleabeen
+2,615,Englcrevbeh
+2,984,Englcrevbeh
+2,184,Hungeleabeen
+2,1019,Hungeleabeen
+2,1063,En Gli
+2,331,Englcrevbeh
+2,820,Englcrevbeh
+2,1107,Englcrevbeh
+2,84,Englcrevbeh
+2,155,Englcrevbeh
+2,472,Hungeleabeen
+2,1172,Hungeleabeen
+2,124,Englcrevbeh
+2,268,Hungeleabeen
+2,755,Hungeleabeen
+2,819,En Gli
+2,326,Hure
+2,1158,Englcrevbeh
+2,941,Englcrevbeh
+2,640,En Gli
+2,1120,Hungeleabeen
+2,108,Englcrevbeh
+2,1174,Hungeleabeen
+2,145,Hungeleabeen
+2,1194,Englcrevbeh
+2,570,En Gli
+2,980,Englcrevbeh
+2,137,Hungeleabeen
+2,433,Englcrevbeh
+2,298,En Gli
+2,553,Englcrevbeh
+2,176,En Gli
+2,850,Englcrevbeh
+2,66,Hungeleabeen
+2,275,Hure
+2,1170,En Gli
+2,8,En Gli
+2,119,Hungeleabeen
+2,450,Hure
+2,1030,Englcrevbeh
+2,543,Englcrevbeh
+2,459,Hungeleabeen
+2,914,En Gli
+2,858,Englcrevbeh
+2,1036,Englcrevbeh
+2,191,Hungeleabeen
+2,680,Englcrevbeh
+2,1065,Englcrevbeh
+2,1153,Englcrevbeh
+2,621,Englcrevbeh
+2,1162,En Gli
+2,693,En Gli
+2,605,Englcrevbeh
+2,414,En Gli
+2,799,Hure
+2,571,Englcrevbeh
+2,987,Hungeleabeen
+2,603,Englcrevbeh
+2,576,Englcrevbeh
+2,1161,En Gli
+2,793,Hungeleabeen
+2,73,Hure
+2,547,Hungeleabeen
+2,223,Englcrevbeh
+2,630,Hungeleabeen
+2,764,Hungeleabeen
+2,526,En Gli
+2,550,Hungeleabeen
+2,600,Hungeleabeen
+2,455,Englcrevbeh
+2,533,En Gli
+2,1018,Englcrevbeh
+2,963,Hungeleabeen
+2,17,Englcrevbeh
+2,296,Englcrevbeh
+2,478,En Gli
+2,214,Hungeleabeen
+2,445,Hure
+2,260,Hungeleabeen
+2,60,Hungeleabeen
+2,457,Hungeleabeen
+2,663,Englcrevbeh
+2,624,Englcrevbeh
+2,67,Englcrevbeh
+2,1220,Englcrevbeh
+2,261,Englcrevbeh
+2,328,Hungeleabeen
+2,129,Hungeleabeen
+2,1117,Englcrevbeh
+2,758,Hungeleabeen
+2,835,Englcrevbeh
+2,540,Hungeleabeen
+2,431,En Gli
+2,559,Hungeleabeen
+2,24,Hungeleabeen
+2,346,En Gli
+2,653,Englcrevbeh
+2,150,Englcrevbeh
+2,481,En Gli
+2,420,En Gli
+2,884,En Gli
+2,1135,Hungeleabeen
+2,393,Hungeleabeen
+2,826,Englcrevbeh
+2,949,Hure
+2,88,Hungeleabeen
+2,568,Englcrevbeh
+2,1080,En Gli
+2,936,Englcrevbeh
+2,377,Hungeleabeen
+2,211,Englcrevbeh
+2,132,Hungeleabeen
+2,278,En Gli
+2,1093,En Gli
+2,302,Hungeleabeen
+2,389,En Gli
+2,900,Hungeleabeen
+2,641,Englcrevbeh
+2,733,Hungeleabeen
+2,1000,En Gli
+2,902,Englcrevbeh
+2,954,Hungeleabeen
+2,117,En Gli
+2,4,En Gli
+2,388,En Gli
+2,458,Englcrevbeh
+2,303,Hure
+2,607,Englcrevbeh
+2,135,Hungeleabeen
+2,336,Englcrevbeh
+2,1069,Englcrevbeh
+2,596,Englcrevbeh
+2,1029,Hure
+2,156,Englcrevbeh
+2,410,Hungeleabeen
+2,1235,En Gli
+2,396,Hure
+2,1156,Hungeleabeen
+2,1059,En Gli
+2,709,Englcrevbeh
+2,994,Hungeleabeen
+2,991,Hungeleabeen
+2,112,Hungeleabeen
+2,975,Hungeleabeen
+2,1041,Englcrevbeh
+2,751,Englcrevbeh
+2,182,Hungeleabeen
+2,221,Englcrevbeh
+2,318,Hungeleabeen
+2,378,Hungeleabeen
+2,255,Englcrevbeh
+2,201,Hungeleabeen
+2,678,Englcrevbeh
+2,380,Englcrevbeh
+2,632,Hungeleabeen
+2,676,En Gli
+2,470,Hungeleabeen
+2,1146,Englcrevbeh
+2,830,En Gli
+2,771,En Gli
+2,1015,Hungeleabeen
+2,522,En Gli
+2,565,Hungeleabeen
+2,817,Englcrevbeh
+2,216,Hungeleabeen
+2,133,Hungeleabeen
+2,259,Hungeleabeen
+2,506,Englcrevbeh
+2,869,Hure
+2,196,Hungeleabeen
+2,36,Englcrevbeh
+2,524,Hungeleabeen
+2,1081,En Gli
+2,353,Englcrevbeh
+2,1073,Englcrevbeh
+2,527,Englcrevbeh
+2,848,Hure
+2,618,Englcrevbeh
+2,907,Hungeleabeen
+2,667,Hungeleabeen
+2,276,Englcrevbeh
+2,536,Englcrevbeh
+2,922,Englcrevbeh
+2,876,Hungeleabeen
+2,413,En Gli
+2,956,Hure
+2,106,En Gli
+2,1025,Hungeleabeen
+2,497,En Gli
+2,626,Hungeleabeen
+2,325,Englcrevbeh
+2,1007,Hungeleabeen
+2,1131,Hure
+2,340,Englcrevbeh
+2,324,Englcrevbeh
+2,768,Hungeleabeen
+2,712,Hungeleabeen
+2,899,Hungeleabeen
+2,514,Hungeleabeen
+2,1092,Hungeleabeen
+2,337,Englcrevbeh
+2,765,Hungeleabeen
+2,750,Englcrevbeh
+2,699,Englcrevbeh
+2,769,En Gli
+2,744,En Gli
+2,364,Englcrevbeh
+2,451,Englcrevbeh
+2,1165,Hungeleabeen
+2,267,Englcrevbeh
+2,1111,En Gli
+2,27,En Gli
+2,948,Hungeleabeen
+2,827,Englcrevbeh
+2,398,Englcrevbeh
+2,1077,Hungeleabeen
+2,71,En Gli
+2,208,Englcrevbeh
+2,1091,Hungeleabeen
+2,1224,Hungeleabeen
+2,668,Hungeleabeen
+2,516,Hungeleabeen
+2,1180,Hungeleabeen
+2,1042,Hungeleabeen
+2,1197,Hungeleabeen
+2,209,Hungeleabeen
+2,1012,Hungeleabeen
+2,1116,Hure
+2,273,Hure
+2,501,Englcrevbeh
+2,520,Hungeleabeen
+2,888,En Gli
+2,1044,Hungeleabeen
+2,660,Hure
+2,280,Englcrevbeh
+2,168,Hungeleabeen
+2,784,En Gli
+2,75,Englcrevbeh
+2,707,Hungeleabeen
+2,1218,Englcrevbeh
+2,812,Englcrevbeh
+2,1083,En Gli
+2,294,Hungeleabeen
+2,264,Hungeleabeen
+2,803,Englcrevbeh
+2,620,Hungeleabeen
+2,159,Hungeleabeen
+2,814,Englcrevbeh
+2,446,En Gli
+2,1179,Englcrevbeh
+2,1185,Hungeleabeen
+2,1204,Englcrevbeh
+2,89,Englcrevbeh
+2,993,Hure
+2,28,Hungeleabeen
+2,845,Englcrevbeh
+2,365,Hungeleabeen
+2,642,Hungeleabeen
+2,622,Englcrevbeh
+2,349,En Gli
+2,234,Hure
+2,821,Hungeleabeen
+2,464,Hungeleabeen
+2,912,En Gli
+2,981,Hungeleabeen
+2,1213,Hure
+2,967,Hungeleabeen
+2,1002,Englcrevbeh
+2,735,En Gli
+2,636,Englcrevbeh
+2,507,En Gli
+2,825,Hungeleabeen
+2,467,Englcrevbeh
+2,29,Hure
+2,403,Hungeleabeen
+2,297,Englcrevbeh
+2,1200,En Gli
+2,50,Englcrevbeh
+2,69,En Gli
+2,849,Hungeleabeen
+2,1148,Hure
+2,1097,Hungeleabeen
+2,538,Hure
+2,1230,Hure
+2,633,Englcrevbeh
+2,1040,Englcrevbeh
+2,99,Englcrevbeh
+2,1227,Englcrevbeh
+2,242,Hungeleabeen
+2,934,Hungeleabeen
+2,879,En Gli
+2,1104,Hungeleabeen
+2,68,Hungeleabeen
+2,498,Englcrevbeh
+2,509,Hungeleabeen
+2,717,Englcrevbeh
+2,972,Hungeleabeen
+2,401,Hungeleabeen
+2,554,Hungeleabeen
+2,122,Hure
+2,983,Hungeleabeen
+2,1188,Hungeleabeen
+2,79,Hungeleabeen
+2,101,Englcrevbeh
+2,311,Englcrevbeh
+2,947,Hungeleabeen
+2,665,Englcrevbeh
+2,1136,En Gli
+2,786,Hungeleabeen
+2,730,En Gli
+2,411,En Gli
+2,1114,Englcrevbeh
+2,580,Englcrevbeh
+2,131,En Gli
+2,192,En Gli
+2,585,Hungeleabeen
+2,1166,Hure
+2,923,En Gli
+2,1035,Hungeleabeen
+2,658,Hungeleabeen
+2,685,Englcrevbeh
+2,274,Englcrevbeh
+2,659,En Gli
+2,1192,Hungeleabeen
+2,736,Hure
+2,897,Hungeleabeen
+2,930,Englcrevbeh
+2,283,Englcrevbeh
+2,461,Englcrevbeh
+2,1021,Englcrevbeh
+2,855,Hungeleabeen
+2,648,Englcrevbeh
+2,49,En Gli
+2,1184,En Gli
+2,432,En Gli
+2,1074,En Gli
+2,740,Hungeleabeen
+2,1101,En Gli
+2,279,Englcrevbeh
+2,392,En Gli
+2,77,Hure
+2,460,Hungeleabeen
+2,6,Englcrevbeh
+2,517,Englcrevbeh
+2,851,En Gli
+2,312,En Gli
+2,1190,En Gli
+2,997,Englcrevbeh
+2,870,Hungeleabeen
+2,329,Hure
+2,505,Englcrevbeh
+2,873,Hure
+2,15,Hungeleabeen
+2,939,Hungeleabeen
+2,244,Hure
+2,891,En Gli
+2,906,En Gli
+2,1034,Englcrevbeh
+2,539,Englcrevbeh
+2,1163,En Gli
+2,447,En Gli
+2,592,Hungeleabeen
+2,1115,Englcrevbeh
+2,832,Hungeleabeen
+2,284,En Gli
+2,195,Hure
+2,496,En Gli
+2,169,Englcrevbeh
+2,1016,Hungeleabeen
+2,969,En Gli
+2,309,Hungeleabeen
+2,754,Hure
+2,1027,Englcrevbeh
+2,865,Englcrevbeh
+2,441,Englcrevbeh
+2,193,Hungeleabeen
+2,491,En Gli
+2,1024,Hungeleabeen
+2,1048,En Gli
+2,968,Englcrevbeh
+2,330,Englcrevbeh
+2,178,En Gli
+2,243,Englcrevbeh
+2,1010,Hungeleabeen
+2,194,Englcrevbeh
+2,687,Englcrevbeh
+2,2,Englcrevbeh
+2,39,Englcrevbeh
+2,368,En Gli
+2,838,Hungeleabeen
+2,7,En Gli
+2,808,Hure
+2,753,En Gli
+2,96,Hure
+2,732,Englcrevbeh
+2,371,En Gli
+2,1143,Englcrevbeh
+2,165,En Gli
+2,305,Hungeleabeen
+2,1209,Englcrevbeh
+2,372,Englcrevbeh
+2,466,En Gli
+2,1187,Hungeleabeen
+2,791,Englcrevbeh
+2,1141,En Gli
+2,93,Englcrevbeh
+2,62,Englcrevbeh
+2,257,Hure
+2,1102,En Gli
+2,390,Hungeleabeen
+2,495,Hure
+2,1061,Englcrevbeh
+2,512,Hungeleabeen
+2,218,Hungeleabeen
+2,747,Englcrevbeh
+2,770,Hungeleabeen
+2,415,En Gli
+2,561,Hungeleabeen
+2,675,Englcrevbeh
+2,197,Hure
+2,1096,En Gli
+2,728,Englcrevbeh
+2,896,Hungeleabeen
+2,815,En Gli
+2,867,En Gli
+2,792,Hungeleabeen
+2,787,Englcrevbeh
+2,982,Englcrevbeh
+2,263,En Gli
+2,123,Hungeleabeen
+2,790,Hungeleabeen
+2,127,Englcrevbeh
+2,249,Englcrevbeh
+2,1202,En Gli
+2,871,Hungeleabeen
+2,962,En Gli
+2,726,Englcrevbeh
+2,692,En Gli
+2,504,Englcrevbeh
+2,863,En Gli
+2,657,Englcrevbeh
+2,586,Hure
+2,452,Hure
+2,705,Englcrevbeh
+2,772,Hungeleabeen
+2,1133,Englcrevbeh
+2,397,Englcrevbeh
+2,713,Englcrevbeh
+2,503,Hungeleabeen
+2,767,Englcrevbeh
+2,147,Hure
+2,438,Hungeleabeen
+2,1140,En Gli
+2,990,Englcrevbeh
+2,56,Hungeleabeen
+2,1142,Hungeleabeen
+2,944,En Gli
+2,696,Englcrevbeh
+2,285,Englcrevbeh
+2,953,Englcrevbeh
+2,55,En Gli
+2,763,Englcrevbeh
+2,530,Hungeleabeen
+2,1072,Englcrevbeh
+2,172,En Gli
+2,98,Hungeleabeen
+2,252,En Gli
+2,966,Englcrevbeh
+2,115,Englcrevbeh
+2,933,Hungeleabeen
+2,265,Hungeleabeen
+2,427,Hungeleabeen
+2,1013,En Gli
+2,664,Hungeleabeen
+2,1130,En Gli
+2,1089,Englcrevbeh
+2,654,Englcrevbeh
+2,588,En Gli
+2,344,Hungeleabeen
+2,499,Englcrevbeh
+2,700,Hure
+2,360,Hungeleabeen
+2,174,Hungeleabeen
+2,412,Englcrevbeh
+2,338,Hure
+2,407,En Gli
+2,277,Englcrevbeh
+2,400,En Gli
+2,177,Hure
+2,724,Hungeleabeen
+2,1,Hungeleabeen
+2,1231,Englcrevbeh
+2,456,Hungeleabeen
+2,1232,Englcrevbeh
+2,417,Englcrevbeh
+2,752,Englcrevbeh
+2,339,Englcrevbeh
+2,387,En Gli
+2,955,Hungeleabeen
+2,831,Englcrevbeh
+2,61,Hungeleabeen
+2,702,Englcrevbeh
+2,1223,Englcrevbeh
+2,775,Englcrevbeh
+2,843,En Gli
+2,776,Englcrevbeh
+2,631,Hungeleabeen
+2,541,Englcrevbeh
+2,1189,Hungeleabeen
+2,43,Hungeleabeen
+2,1198,Englcrevbeh
+2,418,Hungeleabeen
+2,422,Englcrevbeh
+2,1094,En Gli
+2,1134,Englcrevbeh
+2,166,En Gli
+2,1011,En Gli
+2,795,Englcrevbeh
+2,219,Hure
+2,1105,Englcrevbeh
+2,556,Englcrevbeh
+2,1064,Englcrevbeh
+2,480,Englcrevbeh
+2,1152,Hungeleabeen
+2,1017,Englcrevbeh
+2,483,Hungeleabeen
+2,823,Englcrevbeh
+2,915,Englcrevbeh
+2,281,Hure
+2,701,Hungeleabeen
+2,1050,En Gli
+2,1210,Englcrevbeh
+2,861,En Gli
+2,757,Hungeleabeen
+2,453,Englcrevbeh
+2,569,Hungeleabeen
+2,829,En Gli
+2,1123,Englcrevbeh
+2,363,Hure
+2,690,Hure
+2,549,En Gli
+2,655,Englcrevbeh
+2,272,Englcrevbeh
+2,671,Hungeleabeen
+2,199,Hungeleabeen
+2,773,Hungeleabeen
+2,1033,Englcrevbeh
+2,103,Hungeleabeen
+2,578,Hungeleabeen
+2,225,Hure
+2,872,Englcrevbeh
+2,310,Hure
+2,976,Englcrevbeh
+2,885,Englcrevbeh
+2,485,Englcrevbeh
+2,51,Hure
+2,394,En Gli
+2,646,Hungeleabeen
+2,486,Hungeleabeen
+2,83,Hungeleabeen
+2,1183,Hungeleabeen
+2,181,Hure
+2,774,En Gli
+2,64,Hungeleabeen
+2,82,Englcrevbeh
+2,251,Englcrevbeh
+2,383,Englcrevbeh
+2,348,Englcrevbeh
+2,674,Englcrevbeh
+2,1066,Englcrevbeh
+2,90,Hungeleabeen
+2,986,En Gli
+2,10,Hungeleabeen
+2,1191,Hungeleabeen
+2,86,Hungeleabeen
+2,429,Englcrevbeh
+2,11,Englcrevbeh
+2,551,En Gli
+2,711,Hungeleabeen
+2,672,Hure
+2,689,En Gli
+2,762,Hure
+2,1084,En Gli
+2,229,Hungeleabeen
+2,669,Hure
+2,805,Hungeleabeen
+2,1062,Hungeleabeen
+2,673,Englcrevbeh
+2,582,Hure
+2,1126,Hungeleabeen
+2,248,Hungeleabeen
+2,1181,En Gli
+2,358,Hungeleabeen
+2,892,En Gli
+2,130,Englcrevbeh
+2,677,Englcrevbeh
+2,573,Englcrevbeh
+2,16,Hungeleabeen
+2,613,Hure
+2,241,Hungeleabeen
+2,926,Hungeleabeen
+2,382,Englcrevbeh
+2,645,En Gli
+2,995,Englcrevbeh
+2,913,En Gli
+2,940,Englcrevbeh
+2,45,Englcrevbeh
+2,698,Englcrevbeh
+2,354,En Gli
+2,1175,En Gli
+2,270,Englcrevbeh
+2,925,En Gli
+2,822,En Gli
+2,391,En Gli
+2,33,Hungeleabeen
+2,898,Englcrevbeh
+2,308,Hungeleabeen
+2,200,Hungeleabeen
+2,634,En Gli
+2,894,Hure
+2,1087,Englcrevbeh
+2,929,Hungeleabeen
+2,152,Hungeleabeen
+2,30,Hungeleabeen
+2,1020,Hure
+2,1234,Englcrevbeh
+2,468,Hungeleabeen
+2,157,Hungeleabeen
+2,487,Hungeleabeen
+2,958,En Gli
+2,652,Englcrevbeh
+2,9,Hungeleabeen
+2,474,En Gli
+2,552,Englcrevbeh
+2,945,Englcrevbeh
+2,105,Englcrevbeh
+2,434,Englcrevbeh
+2,510,En Gli
+2,952,En Gli
+2,1088,En Gli
+2,94,En Gli
+2,490,Hungeleabeen
+2,370,Hungeleabeen
+2,965,Englcrevbeh
+2,1037,En Gli
+2,783,En Gli
+2,1177,Englcrevbeh
+2,207,Hure
+2,1022,En Gli
+2,374,Hungeleabeen
+2,1226,Hure
+2,301,Hungeleabeen
+2,918,En Gli
+2,637,Englcrevbeh
+2,170,Hungeleabeen
+2,367,Hungeleabeen
+2,957,En Gli
+2,46,Hungeleabeen
+2,343,En Gli
+2,1023,Hure
+2,1222,En Gli
+2,943,Englcrevbeh
+2,523,Englcrevbeh
+2,448,Hungeleabeen
+2,313,Hungeleabeen
+2,163,En Gli
+2,286,Hure
+2,237,En Gli
+2,256,En Gli
+2,818,Hungeleabeen
+2,738,Hungeleabeen
+2,1076,En Gli
+2,282,En Gli
+2,1145,Englcrevbeh
+2,661,Hure
+2,604,Hungeleabeen
+2,462,En Gli
+2,1160,Hure
+2,436,Hungeleabeen
+2,761,Hungeleabeen
+2,886,Hungeleabeen
+2,1151,Englcrevbeh
+2,100,Hungeleabeen
+2,999,Hungeleabeen
+2,854,Hure
+2,357,Hungeleabeen
+2,469,Englcrevbeh
+2,426,Englcrevbeh
+2,341,En Gli
+2,742,Englcrevbeh
+2,1216,En Gli
+2,321,Hungeleabeen
+2,1086,Englcrevbeh
+2,1009,Hungeleabeen
+2,950,Hungeleabeen
+2,212,En Gli
+2,513,Englcrevbeh
+2,598,Hungeleabeen
+2,557,En Gli
+2,807,Hure
+2,482,Hungeleabeen
+2,782,En Gli
+2,416,Hungeleabeen
+2,760,En Gli
+2,656,Englcrevbeh
+2,628,Englcrevbeh
