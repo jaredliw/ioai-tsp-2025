@@ -12,7 +12,7 @@ subtaskID,datapointID,answer
 1,eval_img/36.png,1|-1|0|-2|-1|-3
 1,eval_img/39.png,1|1|2|2|3
 1,eval_img/40.png,0|0|-1|0|1|1|0|-1|-2|-3|-2
-1,eval_img/41.png,1|0|-1|0|1|0
+1,eval_img/41.png,1|0|-1|0|0|-1
 1,eval_img/51.jpg,0|1|-1|0|4|4|5
 1,eval_img/52.jpg,1|1|-3|-7|-6|-8
 1,eval_img/53.jpg,1|2|3|4
@@ -21,7 +21,7 @@ subtaskID,datapointID,answer
 1,eval_img/62.png,-1|0|-1|-2
 1,eval_img/63.png,1|0
 1,eval_img/64.png,-1
-1,eval_img/65.png,0|-1
+1,eval_img/65.png,1|0
 1,eval_img/70.png,0|1|2|0
 1,eval_img/71.png,0|0|0|-1|-2
 1,eval_img/72.png,0
