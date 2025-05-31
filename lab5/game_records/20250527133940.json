@@ -1,0 +1,237 @@
+[
+    {
+        "players": [
+            "Llama",
+            "Gemma",
+            "Mistral",
+            "Qwen"
+        ],
+        "dice": [
+            [
+                6,
+                3
+            ],
+            [
+                4,
+                4
+            ],
+            [
+                3,
+                4
+            ],
+            [
+                5,
+                3
+            ]
+        ],
+        "turns": [
+            {
+                "parameters": [
+                    1,
+                    6
+                ],
+                "auto_corrected": true,
+                "win_challenge": null
+            },
+            {
+                "parameters": null,
+                "auto_corrected": false,
+                "win_challenge": false
+            }
+        ]
+    },
+    {
+        "players": [
+            "Llama",
+            "Gemma",
+            "Mistral",
+            "Qwen"
+        ],
+        "dice": [
+            [
+                1,
+                5
+            ],
+            [
+                6
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                4,
+                3
+            ]
+        ],
+        "turns": [
+            {
+                "parameters": [
+                    1,
+                    5
+                ],
+                "auto_corrected": true,
+                "win_challenge": null
+            },
+            {
+                "parameters": [
+                    2,
+                    6
+                ],
+                "auto_corrected": true,
+                "win_challenge": null
+            },
+            {
+                "parameters": null,
+                "auto_corrected": false,
+                "win_challenge": false
+            }
+        ]
+    },
+    {
+        "players": [
+            "Llama",
+            "Gemma",
+            "Mistral",
+            "Qwen"
+        ],
+        "dice": [
+            [
+                2,
+                5
+            ],
+            [
+                2
+            ],
+            [
+                4
+            ],
+            [
+                4,
+                5
+            ]
+        ],
+        "turns": [
+            {
+                "parameters": [
+                    1,
+                    2
+                ],
+                "auto_corrected": true,
+                "win_challenge": null
+            },
+            {
+                "parameters": null,
+                "auto_corrected": false,
+                "win_challenge": false
+            }
+        ]
+    },
+    {
+        "players": [
+            "Llama",
+            "Gemma",
+            "Qwen"
+        ],
+        "dice": [
+            [
+                4,
+                6
+            ],
+            [
+                3
+            ],
+            [
+                5,
+                3
+            ]
+        ],
+        "turns": [
+            {
+                "parameters": [
+                    1,
+                    4
+                ],
+                "auto_corrected": true,
+                "win_challenge": null
+            },
+            {
+                "parameters": null,
+                "auto_corrected": false,
+                "win_challenge": false
+            }
+        ]
+    },
+    {
+        "players": [
+            "Llama",
+            "Gemma",
+            "Qwen"
+        ],
+        "dice": [
+            [
+                5,
+                2
+            ],
+            [
+                6
+            ],
+            [
+                5
+            ]
+        ],
+        "turns": [
+            {
+                "parameters": [
+                    1,
+                    6
+                ],
+                "auto_corrected": true,
+                "win_challenge": null
+            },
+            {
+                "parameters": null,
+                "auto_corrected": false,
+                "win_challenge": false
+            }
+        ]
+    },
+    {
+        "players": [
+            "Llama",
+            "Gemma"
+        ],
+        "dice": [
+            [
+                3,
+                3
+            ],
+            [
+                1
+            ]
+        ],
+        "turns": [
+            {
+                "parameters": [
+                    1,
+                    1
+                ],
+                "auto_corrected": true,
+                "win_challenge": null
+            },
+            {
+                "parameters": [
+                    2,
+                    3
+                ],
+                "auto_corrected": true,
+                "win_challenge": null
+            },
+            {
+                "parameters": null,
+                "auto_corrected": false,
+                "win_challenge": false
+            }
+        ]
+    }
+]

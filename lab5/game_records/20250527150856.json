@@ -1,0 +1,306 @@
+[
+    {
+        "players": [
+            "Llama",
+            "Gemma",
+            "Mistral",
+            "Qwen"
+        ],
+        "dice": [
+            [
+                4,
+                3
+            ],
+            [
+                6,
+                1
+            ],
+            [
+                1,
+                3
+            ],
+            [
+                4,
+                1
+            ]
+        ],
+        "turns": [
+            {
+                "parameters": [
+                    1,
+                    4
+                ],
+                "auto_corrected": true,
+                "win_challenge": null
+            },
+            {
+                "parameters": [
+                    2,
+                    6
+                ],
+                "auto_corrected": true,
+                "win_challenge": null
+            },
+            {
+                "parameters": [
+                    3,
+                    6
+                ],
+                "auto_corrected": true,
+                "win_challenge": null
+            },
+            {
+                "parameters": null,
+                "auto_corrected": false,
+                "win_challenge": false
+            }
+        ]
+    },
+    {
+        "players": [
+            "Llama",
+            "Gemma",
+            "Mistral",
+            "Qwen"
+        ],
+        "dice": [
+            [
+                5,
+                3
+            ],
+            [
+                4,
+                5
+            ],
+            [
+                2,
+                2
+            ],
+            [
+                1
+            ]
+        ],
+        "turns": [
+            {
+                "parameters": [
+                    1,
+                    2
+                ],
+                "auto_corrected": true,
+                "win_challenge": null
+            },
+            {
+                "parameters": [
+                    2,
+                    3
+                ],
+                "auto_corrected": true,
+                "win_challenge": null
+            },
+            {
+                "parameters": [
+                    2,
+                    4
+                ],
+                "auto_corrected": true,
+                "win_challenge": null
+            },
+            {
+                "parameters": [
+                    2,
+                    5
+                ],
+                "auto_corrected": false,
+                "win_challenge": null
+            },
+            {
+                "parameters": null,
+                "auto_corrected": false,
+                "win_challenge": false
+            }
+        ]
+    },
+    {
+        "players": [
+            "Llama",
+            "Gemma",
+            "Mistral",
+            "Qwen"
+        ],
+        "dice": [
+            [
+                4,
+                4
+            ],
+            [
+                3,
+                5
+            ],
+            [
+                3
+            ],
+            [
+                5
+            ]
+        ],
+        "turns": [
+            {
+                "parameters": [
+                    2,
+                    5
+                ],
+                "auto_corrected": true,
+                "win_challenge": null
+            },
+            {
+                "parameters": null,
+                "auto_corrected": false,
+                "win_challenge": false
+            }
+        ]
+    },
+    {
+        "players": [
+            "Llama",
+            "Gemma",
+            "Qwen"
+        ],
+        "dice": [
+            [
+                3,
+                5
+            ],
+            [
+                2,
+                2
+            ],
+            [
+                4
+            ]
+        ],
+        "turns": [
+            {
+                "parameters": [
+                    2,
+                    2
+                ],
+                "auto_corrected": true,
+                "win_challenge": null
+            },
+            {
+                "parameters": [
+                    2,
+                    3
+                ],
+                "auto_corrected": false,
+                "win_challenge": null
+            },
+            {
+                "parameters": [
+                    2,
+                    4
+                ],
+                "auto_corrected": false,
+                "win_challenge": null
+            },
+            {
+                "parameters": null,
+                "auto_corrected": false,
+                "win_challenge": true
+            }
+        ]
+    },
+    {
+        "players": [
+            "Llama",
+            "Gemma",
+            "Qwen"
+        ],
+        "dice": [
+            [
+                1
+            ],
+            [
+                1,
+                5
+            ],
+            [
+                5
+            ]
+        ],
+        "turns": [
+            {
+                "parameters": [
+                    2,
+                    5
+                ],
+                "auto_corrected": true,
+                "win_challenge": null
+            },
+            {
+                "parameters": null,
+                "auto_corrected": false,
+                "win_challenge": false
+            }
+        ]
+    },
+    {
+        "players": [
+            "Llama",
+            "Gemma"
+        ],
+        "dice": [
+            [
+                3
+            ],
+            [
+                6,
+                2
+            ]
+        ],
+        "turns": [
+            {
+                "parameters": [
+                    2,
+                    6
+                ],
+                "auto_corrected": true,
+                "win_challenge": null
+            },
+            {
+                "parameters": null,
+                "auto_corrected": false,
+                "win_challenge": true
+            }
+        ]
+    },
+    {
+        "players": [
+            "Llama",
+            "Gemma"
+        ],
+        "dice": [
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "turns": [
+            {
+                "parameters": [
+                    2,
+                    3
+                ],
+                "auto_corrected": true,
+                "win_challenge": null
+            },
+            {
+                "parameters": null,
+                "auto_corrected": false,
+                "win_challenge": false
+            }
+        ]
+    }
+]
