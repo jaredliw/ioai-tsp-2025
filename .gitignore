@@ -3,4 +3,5 @@
 **/__pycache__/
 **/.venv/
 **/.vector_cache/
+**/.virtual_documents/
 
